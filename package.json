@@ -1,6 +1,6 @@
 {
 	"name": "mistral-spell-checker-plugin",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Mistral Spell Checker Plugin",
 	"main": "main.js",
 	"type": "module",
