@@ -1,5 +1,5 @@
 {
-	"id": "mistral-spell-checker-plugin",
+	"id": "mistral-spell-checker",
 	"name": "Mistal Spell Checker Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
